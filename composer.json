@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mustache/mustache": "^2.14",
+      "ext-json": "*"
+    }
+}
